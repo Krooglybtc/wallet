@@ -4,7 +4,7 @@ import addressPath from '../../static/img/address.png';
 export const INVALID_ADDRESS_ERROR = {
     img: addressPath,
     title: 'Invalid Address',
-    description: 'Use valid Ethereum ERC20 token address.'
+    description: 'Use valid Ethereum ERC20 token address. OR TRY EGAIN'
 };
 
 export const EMPTY_TRANSACTION_HISTORY = {
